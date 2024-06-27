@@ -1,0 +1,38 @@
+[
+    {
+        "nama": "wiman",
+        "notelp": "22",
+        "alamat": "2222",
+        "jenis_teh": "Es Teh Rasa Lemon (Rp. 5.000)",
+        "jumlah_teh": "2",
+        "harga_teh": "Rp. 5.000",
+        "jumlah_tagihan": "Rp. 10.000"
+    },
+    {
+        "nama": "cuaks",
+        "notelp": "1111",
+        "alamat": "44444",
+        "jenis_teh": "Es Teh Rasa Leci (Rp. 5.000)",
+        "jumlah_teh": "5",
+        "harga_teh": "Rp. 5.000",
+        "jumlah_tagihan": "Rp. 25.000"
+    },
+    {
+        "nama": "hua",
+        "notelp": "1111",
+        "alamat": "44444",
+        "jenis_teh": "Es Teh Rasa Leci (Rp. 5.000)",
+        "jumlah_teh": "5",
+        "harga_teh": "Rp. 5.000",
+        "jumlah_tagihan": "Rp. 25.000"
+    },
+    {
+        "nama": "coko",
+        "notelp": "0822",
+        "alamat": "kedaton",
+        "jenis_teh": "Es Teh Rasa Leci (Rp. 5.000)",
+        "jumlah_teh": "15",
+        "harga_teh": "Rp. 5.000",
+        "jumlah_tagihan": "Rp. 75.000"
+    }
+]
